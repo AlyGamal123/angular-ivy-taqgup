@@ -1,0 +1,30 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #1e2638;
+}
+
+table {
+  width: 100%;
+  margin: auto;
+  position: relative;
+  top: 0px;
+}
+
+th {
+  font-family: Georgia;
+  color: #ffc505;
+  text-align: center;
+  line-height: 50px;
+  background-color: #2c3446;
+}
+
+td {
+  font-family: Palatino Linotype;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+}
+
+tr:nth-child(odd) {
+  background-color: #323c50;
+}
